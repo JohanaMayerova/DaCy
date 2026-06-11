@@ -9,7 +9,7 @@ Datasets:
 - DaCoref: Danish Coreference Corpus
 - DaNED: Danish named entity disambiguation
 
-These all tag a subset of the Danish Universal Dependencies corpus. Thus thus project
+These all tag a subset of the Danish Universal Dependencies corpus. Thus this project
 combined it all into one dataset.
 
 For the DaNED we remove QIDs which does not correspond to an entity in the DaNE dataset as many of are e.g.
